@@ -35,7 +35,7 @@
 
 % weight normalize the isokinetic data and calculate the means for each day.
 % So calculate the average of each day with respect to the weight.  Given
-% that there are 25 subjects the data wil run 25 times.  By using max
+% that there are 25 subjects the data will run 25 times.  By using max
 % before the calculation of the average of the each day for each subject in
 % relation to the weight, the only answer given will be the maximum answer
 % and the answer we are looking for.  The average of each day divided by
