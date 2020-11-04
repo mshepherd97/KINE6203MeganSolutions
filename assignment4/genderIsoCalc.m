@@ -1,12 +1,10 @@
 function [maleIsoIndMeans,femaleIsoIndMeans,maleGroupIsoMean,femaleGroupIsoMean] = genderIsoCalc(Gender,Day1,Day2,Day3)
 %Create a function (name it genderIsoCalc.m) that returns four outputs. 
-% The first set of outputs (onefor males and one for females) should return 
+% The first set of outputs (one for males and one for females) should return 
 % a matrix with individual mean isometric strengthvalues across all 3 days 
 % of lifting for the appropriate group. The second set of outputs will 
 % return the single mean value for each group (mean of subject means). 
-% Call this function in your main script andstore the results with variable 
-% names maleIsoIndMeans, femaleIsoIndMeans, maleGroupIsoMeanand 
-% femaleGroupIsoMean. 
+%  
 %   
 
 maleIsoIndMeans = [];
